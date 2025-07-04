@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09E85FF5-E2E2-465B-B82A-D4F078B0E4EB}|CrmApp.Domain\\CrmApp.Domain.csproj|c:\\users\\matheus\\desktop\\projeto\\crmapp\\crmapp.domain\\valueobjects\\cpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E85FF5-E2E2-465B-B82A-D4F078B0E4EB}|CrmApp.Domain\\CrmApp.Domain.csproj|solutionrelative:crmapp.domain\\valueobjects\\cpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2F37D1-2103-4779-A10E-87BDCA8BC3C2}|CrmApp.Data\\CrmApp.Data.csproj|c:\\users\\matheus\\desktop\\projeto\\crmapp\\crmapp.data\\fluentapi\\clientemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2F37D1-2103-4779-A10E-87BDCA8BC3C2}|CrmApp.Data\\CrmApp.Data.csproj|solutionrelative:crmapp.data\\fluentapi\\clientemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E85FF5-E2E2-465B-B82A-D4F078B0E4EB}|CrmApp.Domain\\CrmApp.Domain.csproj|c:\\users\\matheus\\desktop\\projeto\\crmapp\\crmapp.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E85FF5-E2E2-465B-B82A-D4F078B0E4EB}|CrmApp.Domain\\CrmApp.Domain.csproj|solutionrelative:crmapp.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2F37D1-2103-4779-A10E-87BDCA8BC3C2}|CrmApp.Data\\CrmApp.Data.csproj|c:\\users\\matheus\\desktop\\projeto\\crmapp\\crmapp.data\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2F37D1-2103-4779-A10E-87BDCA8BC3C2}|CrmApp.Data\\CrmApp.Data.csproj|solutionrelative:crmapp.data\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2F37D1-2103-4779-A10E-87BDCA8BC3C2}|CrmApp.Data\\CrmApp.Data.csproj|c:\\users\\matheus\\desktop\\projeto\\crmapp\\crmapp.data\\context\\crmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2F37D1-2103-4779-A10E-87BDCA8BC3C2}|CrmApp.Data\\CrmApp.Data.csproj|solutionrelative:crmapp.data\\context\\crmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E76188-935B-4440-AB1A-BF9A58F68F65}|CrmApp.Api\\CrmApp.Api.csproj|c:\\users\\matheus\\desktop\\projeto\\crmapp\\crmapp.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E76188-935B-4440-AB1A-BF9A58F68F65}|CrmApp.Api\\CrmApp.Api.csproj|solutionrelative:crmapp.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E76188-935B-4440-AB1A-BF9A58F68F65}|CrmApp.Api\\CrmApp.Api.csproj|c:\\users\\matheus\\desktop\\projeto\\crmapp\\crmapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E76188-935B-4440-AB1A-BF9A58F68F65}|CrmApp.Api\\CrmApp.Api.csproj|solutionrelative:crmapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B26A64-9343-4115-BAF5-0B4E4504AE24}|CrmApp.Application\\CrmApp.Application.csproj|c:\\users\\matheus\\desktop\\projeto\\crmapp\\crmapp.application\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B26A64-9343-4115-BAF5-0B4E4504AE24}|CrmApp.Application\\CrmApp.Application.csproj|solutionrelative:crmapp.application\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B26A64-9343-4115-BAF5-0B4E4504AE24}|CrmApp.Application\\CrmApp.Application.csproj|c:\\users\\matheus\\desktop\\projeto\\crmapp\\crmapp.application\\dtos\\criarclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B26A64-9343-4115-BAF5-0B4E4504AE24}|CrmApp.Application\\CrmApp.Application.csproj|solutionrelative:crmapp.application\\dtos\\criarclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E85FF5-E2E2-465B-B82A-D4F078B0E4EB}|CrmApp.Domain\\CrmApp.Domain.csproj|c:\\users\\matheus\\desktop\\projeto\\crmapp\\crmapp.domain\\crmapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09E85FF5-E2E2-465B-B82A-D4F078B0E4EB}|CrmApp.Domain\\CrmApp.Domain.csproj|solutionrelative:crmapp.domain\\crmapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E85FF5-E2E2-465B-B82A-D4F078B0E4EB}|CrmApp.Domain\\CrmApp.Domain.csproj|c:\\users\\matheus\\desktop\\projeto\\crmapp\\crmapp.domain\\valueobjects\\nome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E85FF5-E2E2-465B-B82A-D4F078B0E4EB}|CrmApp.Domain\\CrmApp.Domain.csproj|solutionrelative:crmapp.domain\\valueobjects\\nome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B26A64-9343-4115-BAF5-0B4E4504AE24}|CrmApp.Application\\CrmApp.Application.csproj|c:\\users\\matheus\\desktop\\projeto\\crmapp\\crmapp.application\\usecase\\criarclienteusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B26A64-9343-4115-BAF5-0B4E4504AE24}|CrmApp.Application\\CrmApp.Application.csproj|solutionrelative:crmapp.application\\usecase\\criarclienteusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E85FF5-E2E2-465B-B82A-D4F078B0E4EB}|CrmApp.Domain\\CrmApp.Domain.csproj|c:\\users\\matheus\\desktop\\projeto\\crmapp\\crmapp.domain\\valueobjects\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E85FF5-E2E2-465B-B82A-D4F078B0E4EB}|CrmApp.Domain\\CrmApp.Domain.csproj|solutionrelative:crmapp.domain\\valueobjects\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E85FF5-E2E2-465B-B82A-D4F078B0E4EB}|CrmApp.Domain\\CrmApp.Domain.csproj|c:\\users\\matheus\\desktop\\projeto\\crmapp\\crmapp.domain\\valueobjects\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E85FF5-E2E2-465B-B82A-D4F078B0E4EB}|CrmApp.Domain\\CrmApp.Domain.csproj|solutionrelative:crmapp.domain\\valueobjects\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D25318A-EE74-48FC-8052-91FD6D81F104}|CrmApp.Infrastructure\\CrmApp.Infrastructure.csproj|c:\\users\\matheus\\desktop\\projeto\\crmapp\\crmapp.infrastructure\\services\\smtpemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D25318A-EE74-48FC-8052-91FD6D81F104}|CrmApp.Infrastructure\\CrmApp.Infrastructure.csproj|solutionrelative:crmapp.infrastructure\\services\\smtpemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B26A64-9343-4115-BAF5-0B4E4504AE24}|CrmApp.Application\\CrmApp.Application.csproj|c:\\users\\matheus\\desktop\\projeto\\crmapp\\crmapp.application\\services\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B26A64-9343-4115-BAF5-0B4E4504AE24}|CrmApp.Application\\CrmApp.Application.csproj|solutionrelative:crmapp.application\\services\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B26A64-9343-4115-BAF5-0B4E4504AE24}|CrmApp.Application\\CrmApp.Application.csproj|c:\\users\\matheus\\desktop\\projeto\\crmapp\\crmapp.application\\validation\\criarclientevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B26A64-9343-4115-BAF5-0B4E4504AE24}|CrmApp.Application\\CrmApp.Application.csproj|solutionrelative:crmapp.application\\validation\\criarclientevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E85FF5-E2E2-465B-B82A-D4F078B0E4EB}|CrmApp.Domain\\CrmApp.Domain.csproj|c:\\users\\matheus\\desktop\\projeto\\crmapp\\crmapp.domain\\repository\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E85FF5-E2E2-465B-B82A-D4F078B0E4EB}|CrmApp.Domain\\CrmApp.Domain.csproj|solutionrelative:crmapp.domain\\repository\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E85FF5-E2E2-465B-B82A-D4F078B0E4EB}|CrmApp.Domain\\CrmApp.Domain.csproj|c:\\users\\matheus\\desktop\\projeto\\crmapp\\crmapp.domain\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E85FF5-E2E2-465B-B82A-D4F078B0E4EB}|CrmApp.Domain\\CrmApp.Domain.csproj|solutionrelative:crmapp.domain\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Data\\Repository\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "CrmApp.Data\\Repository\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Data\\Repository\\ClienteRepository.cs",
+              "RelativeToolTip": "CrmApp.Data\\Repository\\ClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T02:03:33.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteMap.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Data\\FluentAPI\\ClienteMap.cs",
+              "RelativeDocumentMoniker": "CrmApp.Data\\FluentAPI\\ClienteMap.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Data\\FluentAPI\\ClienteMap.cs",
+              "RelativeToolTip": "CrmApp.Data\\FluentAPI\\ClienteMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:59:31.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Domain\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "CrmApp.Domain\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Domain\\Entities\\Cliente.cs",
+              "RelativeToolTip": "CrmApp.Domain\\Entities\\Cliente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:35:55.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cpf.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Domain\\ValueObjects\\Cpf.cs",
+              "RelativeDocumentMoniker": "CrmApp.Domain\\ValueObjects\\Cpf.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Domain\\ValueObjects\\Cpf.cs",
+              "RelativeToolTip": "CrmApp.Domain\\ValueObjects\\Cpf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:40:38.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrmDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Data\\Context\\CrmDbContext.cs",
+              "RelativeDocumentMoniker": "CrmApp.Data\\Context\\CrmDbContext.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Data\\Context\\CrmDbContext.cs",
+              "RelativeToolTip": "CrmApp.Data\\Context\\CrmDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:57:02.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Api\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "CrmApp.Api\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Api\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "CrmApp.Api\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T02:07:42.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CrmApp.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Api\\Program.cs",
+              "RelativeToolTip": "CrmApp.Api\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T02:11:27.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Application\\DTOs\\ClienteDTO.cs",
+              "RelativeDocumentMoniker": "CrmApp.Application\\DTOs\\ClienteDTO.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Application\\DTOs\\ClienteDTO.cs",
+              "RelativeToolTip": "CrmApp.Application\\DTOs\\ClienteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T14:04:24.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Nome.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Domain\\ValueObjects\\Nome.cs",
+              "RelativeDocumentMoniker": "CrmApp.Domain\\ValueObjects\\Nome.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Domain\\ValueObjects\\Nome.cs",
+              "RelativeToolTip": "CrmApp.Domain\\ValueObjects\\Nome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:40:31.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Domain\\ValueObjects\\DomainException.cs",
+              "RelativeDocumentMoniker": "CrmApp.Domain\\ValueObjects\\DomainException.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Domain\\ValueObjects\\DomainException.cs",
+              "RelativeToolTip": "CrmApp.Domain\\ValueObjects\\DomainException.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T02:22:55.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SmtpEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Infrastructure\\Services\\SmtpEmailService.cs",
+              "RelativeDocumentMoniker": "CrmApp.Infrastructure\\Services\\SmtpEmailService.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Infrastructure\\Services\\SmtpEmailService.cs",
+              "RelativeToolTip": "CrmApp.Infrastructure\\Services\\SmtpEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:52:46.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Application\\Services\\Interface\\IEmailService.cs",
+              "RelativeDocumentMoniker": "CrmApp.Application\\Services\\Interface\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Application\\Services\\Interface\\IEmailService.cs",
+              "RelativeToolTip": "CrmApp.Application\\Services\\Interface\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:51:40.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CriarClienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Application\\DTOs\\CriarClienteDTO.cs",
+              "RelativeDocumentMoniker": "CrmApp.Application\\DTOs\\CriarClienteDTO.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Application\\DTOs\\CriarClienteDTO.cs",
+              "RelativeToolTip": "CrmApp.Application\\DTOs\\CriarClienteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:45:39.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CriarClienteUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Application\\UseCase\\CriarClienteUseCase.cs",
+              "RelativeDocumentMoniker": "CrmApp.Application\\UseCase\\CriarClienteUseCase.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Application\\UseCase\\CriarClienteUseCase.cs",
+              "RelativeToolTip": "CrmApp.Application\\UseCase\\CriarClienteUseCase.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:46:48.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CrmApp.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Domain\\CrmApp.Domain.csproj",
+              "RelativeDocumentMoniker": "CrmApp.Domain\\CrmApp.Domain.csproj",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Domain\\CrmApp.Domain.csproj",
+              "RelativeToolTip": "CrmApp.Domain\\CrmApp.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-04T01:34:57.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Domain\\ValueObjects\\ValueObject.cs",
+              "RelativeDocumentMoniker": "CrmApp.Domain\\ValueObjects\\ValueObject.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Domain\\ValueObjects\\ValueObject.cs",
+              "RelativeToolTip": "CrmApp.Domain\\ValueObjects\\ValueObject.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T02:19:02.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CriarClienteValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Application\\Validation\\CriarClienteValidator.cs",
+              "RelativeDocumentMoniker": "CrmApp.Application\\Validation\\CriarClienteValidator.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Application\\Validation\\CriarClienteValidator.cs",
+              "RelativeToolTip": "CrmApp.Application\\Validation\\CriarClienteValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:49:11.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Domain\\Repository\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "CrmApp.Domain\\Repository\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Domain\\Repository\\IClienteRepository.cs",
+              "RelativeToolTip": "CrmApp.Domain\\Repository\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:43:02.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Domain\\ValueObjects\\Email.cs",
+              "RelativeDocumentMoniker": "CrmApp.Domain\\ValueObjects\\Email.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Projeto\\CrmApp\\CrmApp.Domain\\ValueObjects\\Email.cs",
+              "RelativeToolTip": "CrmApp.Domain\\ValueObjects\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:39:07.449Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

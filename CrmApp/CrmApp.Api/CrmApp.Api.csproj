@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CrmApp.Application\CrmApp.Application.csproj" />
+    <ProjectReference Include="..\CrmApp.Data\CrmApp.Data.csproj" />
     <ProjectReference Include="..\CrmApp.Infrastructure\CrmApp.Infrastructure.csproj" />
   </ItemGroup>
 

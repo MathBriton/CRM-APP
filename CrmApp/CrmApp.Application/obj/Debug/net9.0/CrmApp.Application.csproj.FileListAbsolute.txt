@@ -1,0 +1,16 @@
+C:\Users\Matheus\Desktop\Projeto\CrmApp\CrmApp.Application\bin\Debug\net9.0\CrmApp.Application.deps.json
+C:\Users\Matheus\Desktop\Projeto\CrmApp\CrmApp.Application\bin\Debug\net9.0\CrmApp.Application.dll
+C:\Users\Matheus\Desktop\Projeto\CrmApp\CrmApp.Application\bin\Debug\net9.0\CrmApp.Application.pdb
+C:\Users\Matheus\Desktop\Projeto\CrmApp\CrmApp.Application\bin\Debug\net9.0\CrmApp.Domain.dll
+C:\Users\Matheus\Desktop\Projeto\CrmApp\CrmApp.Application\bin\Debug\net9.0\CrmApp.Domain.pdb
+C:\Users\Matheus\Desktop\Projeto\CrmApp\CrmApp.Application\obj\Debug\net9.0\CrmApp.Application.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\Projeto\CrmApp\CrmApp.Application\obj\Debug\net9.0\CrmApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Projeto\CrmApp\CrmApp.Application\obj\Debug\net9.0\CrmApp.Application.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Projeto\CrmApp\CrmApp.Application\obj\Debug\net9.0\CrmApp.Application.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Projeto\CrmApp\CrmApp.Application\obj\Debug\net9.0\CrmApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Projeto\CrmApp\CrmApp.Application\obj\Debug\net9.0\CrmApp.Application.sourcelink.json
+C:\Users\Matheus\Desktop\Projeto\CrmApp\CrmApp.Application\obj\Debug\net9.0\CrmApp.A.C4BDB1EF.Up2Date
+C:\Users\Matheus\Desktop\Projeto\CrmApp\CrmApp.Application\obj\Debug\net9.0\CrmApp.Application.dll
+C:\Users\Matheus\Desktop\Projeto\CrmApp\CrmApp.Application\obj\Debug\net9.0\refint\CrmApp.Application.dll
+C:\Users\Matheus\Desktop\Projeto\CrmApp\CrmApp.Application\obj\Debug\net9.0\CrmApp.Application.pdb
+C:\Users\Matheus\Desktop\Projeto\CrmApp\CrmApp.Application\obj\Debug\net9.0\ref\CrmApp.Application.dll
